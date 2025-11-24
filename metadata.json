@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Minimal",
+  "description": "A clean, elegant, and simple chat interface powered by Gemini 2.5 Flash, featuring text and image support.",
+  "requestFramePermissions": []
+}
